@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author usuario
+ * @author agomezcastro
  */
 public class Boletin53 {
 
